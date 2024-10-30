@@ -6,4 +6,8 @@ https://meryel.netlify.app
 
 https://assetstore.unity.com/packages/tools/utilities/code-assist-216713
 
+https://meryel.itch.io/unity-code-assist
+
 https://marketplace.visualstudio.com/items?itemName=MerryYellow.UCA-Lite
+
+https://marketplace.visualstudio.com/items?itemName=MerryYellow.uca-lite-vscode
